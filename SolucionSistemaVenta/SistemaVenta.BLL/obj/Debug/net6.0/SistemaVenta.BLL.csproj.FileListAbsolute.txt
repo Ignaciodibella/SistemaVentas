@@ -1,0 +1,17 @@
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.deps.json
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.dll
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.pdb
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfo.cs
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.dll
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\refint\SistemaVenta.BLL.dll
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.pdb
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\ref\SistemaVenta.BLL.dll
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CopyComplete
