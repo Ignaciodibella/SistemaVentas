@@ -1,2 +1,2 @@
 # SistemaVentas
-Sistema de ventas responsibe desarrollado en ASP.NET Core V6 con C# 
+Sistema de ventas responsive desarrollado en ASP.NET Core V6 con C# 
