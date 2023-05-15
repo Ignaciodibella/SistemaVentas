@@ -1,0 +1,14 @@
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity.dll
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+D:\Curso Net Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
